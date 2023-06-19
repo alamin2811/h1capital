@@ -1,0 +1,170 @@
+.hcapital-container-custom{
+    max-width: 1780px;
+    width: 100%;
+    margin: auto;
+    padding: 0px 30px;
+}
+.h1capitalHeader{
+    height: 110px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+}
+.h1capitalHeader_left{
+    max-width: 1024px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.h1capital_menu_list{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    max-width: 783px;
+    width: 100%;
+}
+.h1capital_menu_list li{}
+.h1capital_menu_list li a {
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    color: #FFFFFF;
+}
+
+.h1capitalHeader_right{
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    max-width: 310px;
+    width: 100%;
+    margin-left: auto;
+}
+.h1capital_menu_btn_list{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.h1capital_menu_btn_list li{}
+.h1capital_menu_btn_list li a{
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    color: #FFFFFF;
+}
+.h1capital_menu_btn_list li button{}
+
+.h1capital_menu_btn_list li button.login_btn {
+    background: transparent;
+    border: 2px solid rgba(255, 255, 255, 0.15);
+    box-sizing: border-box;
+    border-radius: 30px;
+    height: 50px;
+    width: 98px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 0px;
+
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+
+.h1capital_menu_btn_list li button.login_btn:hover{
+    border: 2px solid #8EB5FF;
+    color: #8EB5FF;
+}
+
+.h1capital_menu_btn_list li button.connect_btn {
+    background: #8EB5FF;
+    border-radius: 30px;
+    border: none;
+    height: 50px;
+    width: 170px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0px 32px;
+}
+.h1capital_menu_btn_list li button.connect_btn .btn-text {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    text-transform: uppercase;
+    color: #090A1A;
+}
+
+
+
+
+
+.h1capital_menu_btn_list .nav-expander .bar {
+    overflow: hidden;
+}
+
+.h1capital_menu_btn_list .nav-expander .bar span {
+    height: 2px;
+    display: block;
+    background: rgba(255, 255, 255, 0.7);
+    transition: all .5s ease;
+    cursor: pointer;
+    list-style: none;
+}
+
+.h1capital_menu_btn_list .nav-expander .bar span.dot1 {
+    width: 20px;
+    margin-bottom: 6px;
+}
+
+.h1capital_menu_btn_list .nav-expander .bar span.dot2 {
+    width: 30px;
+    margin-bottom: 6px;
+}
+
+.h1capital_menu_btn_list .nav-expander .bar span.dot3 {
+    width: 25px;
+}
+
+.h1capital_menu_btn_list .nav-expander .bar:hover span.dot1,
+.h1capital_menu_btn_list .nav-expander .bar:hover span.dot3 {
+    width: 30px;
+}
+
+.Multi_Chain_Support_right_Sect{
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    flex-direction: column;
+    min-height: 432px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
